@@ -1,4 +1,4 @@
-# cass.run
+# zuck.run
 
 My own lil URL shortener
 
